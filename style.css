@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.nav{
+    background-color:bisque;
+    color:aquamarine;
+}
+
+.container{
+    max-width:1000px;
+
+}
+
+.container > *{
+    display:inline-block;
+}
+
+.list > div{
+    display:inline-block;
+}
